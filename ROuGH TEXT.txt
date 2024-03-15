@@ -1,0 +1,46 @@
+1) Customer Address Table:
+   -> Accuracy: 1) customer_id
+                2) address
+                3) postcode
+                4) state
+                5) country
+                6) property_valuation
+   -> Completeness: 1) customer_id
+                    2) address
+                    3) postcode
+                    4) state
+                    5) country
+                    6) property_valuation
+   -> Consistency: 1) customer_id
+                   2) address
+                   3) postcode
+                   4) state
+                   5) country
+                   6) property_valuation
+   -> Currency: 1) customer_id
+                2) address
+                3) postcode
+                4) state
+                5) country
+                6) property_valuation
+   -> Relevancy: 1) customer_id
+                 2) address
+                 3) postcode
+                 4) state
+                 5) country
+                 6) property_valuation
+
+   -> Validity: 1) customer_id
+                2) address
+                3) postcode
+                4) state
+                5) country
+                6) property_valuation
+   -> Uniqueness: 1) customer_id
+                2) address
+                3) postcode
+                4) state
+                5) country
+                6) property_valuation
+
+
