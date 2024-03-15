@@ -1,0 +1,35 @@
+TransactionRaw - NULL
+==================
+ISNULL(transaction_id) || ISNULL(product_id) || ISNULL(customer_id) || ISNULL(transaction_date) || ISNULL(online_order) || ISNULL(brand) || ISNULL(product_first_sold_date)
+
+------------------
+
+CustomerDemographicRaw - Deceased
+==================
+FINDSTRING(deceased_indicator,"Y",1) > 0
+
+------------------
+
+CustomerDemographicRaw - NULL
+==================
+ISNULL(customer_id) || ISNULL(last_name) || ISNULL(DOB) || ISNULL(job_title) || ISNULL(job_industry_category) || ISNULL(default) || ISNULL(tenure) || FINDSTRING(job_title,"n/a",1) > 0
+
+------------------
+
+CustomerAddressRaw - NULL
+==================
+ISNULL(customer_id) || ISNULL(address) || ISNULL(postcode) || ISNULL(state) || ISNULL(country) || ISNULL(property_valuation)
+
+------------------
+
+NewCustomerListRaw - NULL
+==================
+ISNULL(last_name) || ISNULL(DOB) || ISNULL(job_title) || ISNULL(job_industry_category)
+
+------------------
+
+WRK_Transactions - LATE
+==================
+ISNULL(transaction_id) || ISNULL(demographics_customer_id) || ISNULL(address_customer_id)
+
+------------------

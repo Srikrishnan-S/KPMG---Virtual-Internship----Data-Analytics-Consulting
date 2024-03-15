@@ -1,0 +1,3 @@
+"customer_id","first_name","last_name","gender","past_3_years_bike_related_purchases","DOB","job_title","job_industry_category","wealth_segment","deceased_indicator","default","owns_car","tenure"
+"753","Josy","St. Quentin","Female","82","1970-03-07","Food Chemist","Health","Affluent Customer","Y","-0.5","Yes","6.0"
+"3790","Kurtis","Morson","Male","91","1959-05-31","Senior Editor","Retail","Mass Customer","Y","ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²","Yes","9.0"
